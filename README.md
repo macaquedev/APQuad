@@ -1,6 +1,5 @@
 An Arduino Quadruped designed to be as straightforward as possible to use and make.
-
-I will be posting all code, all STL's and all building instructions on this Github repository.
+I have posted all code, all STL's and all building instructions on this Github repository.
 
 Please share this repository if you have found this helpful.
 
